@@ -18,9 +18,11 @@
 }
 
 @media (max-width:768px) {
+
  .top-block { 
     text-align: center;
   }
+  
 }
 .todo-block {
   display: block;
